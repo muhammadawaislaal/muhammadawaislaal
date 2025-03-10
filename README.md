@@ -1,7 +1,7 @@
 # CoderAwais
 
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate fUllstack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Frontend projects**
 
