@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Jawascript**
 
-- 🌱 I’m currently learning **python and jawascript**
+- 🌱 I’m currently learning **jawascript**
 
 - 👯 I’m looking to collaborate on **Tecrix**
 
