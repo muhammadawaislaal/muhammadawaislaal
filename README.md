@@ -1,9 +1,9 @@
 <h1 align="center">I'm Awais laal👋</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Jawascript**
+- 🔭 I’m currently working on **RNN MOdelling**
 
-- 🌱 I’m currently learning **jawascript**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Tecrix**
 
