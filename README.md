@@ -1,23 +1,20 @@
 <h1 align="center">I'm Awais laal👋</h1>
 <h3 align="center">A passionate Gen AI Specialist from Pakistan</h3>
 
-- 🔭 I’m currently working on **RNN MOdelling**
+- 🔭 I’m currently working on **Generative Ai**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Tecrix**
+- 👯 I’m looking to collaborate on **Linkedin**
 
-- 🤝 I’m looking for help with **Active akhuwat**
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/muhammadawaislaal](https://www.frontendmentor.io/profile/muhammadawaislaal)
+- 👨‍💻 All of my projects are available at [https://muhammadawaislaal.github.io/My_PortFolio/](https://muhammadawaislaal.github.io/My_PortFolio/)
 
-- 📝 I regularly write articles on [www.amazoonshoop.com](www.amazoonshoop.com)
-
-- 💬 Ask me about **Development projects**
+- 💬 Ask me about **AI Development projects**
 
 - 📫 How to reach me **muhammadawaislaal@gmail.com**
 
-- 📄 Know about my experiences [https://www.fiverr.com/pooorman?public_mode=true](https://www.fiverr.com/pooorman?public_mode=true)
+- 📄 Know about my experiences [https://muhammadawaislaal.github.io/My_PortFolio/](https://muhammadawaislaal.github.io/My_PortFolio/)
 
 - ⚡ Fun fact **I Think I am Serious but Some Funny**
 
