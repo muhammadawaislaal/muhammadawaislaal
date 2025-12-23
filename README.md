@@ -1,5 +1,5 @@
 <h1 align="center">I'm Awais laal👋</h1>
-<h3 align="center">A passionate Gen AI Specialist from Pakistan</h3>
+<h3 align="center">A passionate Gen AI Developer from Pakistan I am Open to work</h3>
 
 - 🔭 I’m currently working on **Generative Ai**
 
