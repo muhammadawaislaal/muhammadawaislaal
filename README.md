@@ -1,107 +1,62 @@
-# 👨‍💻 Awais Laal | Generative AI Developer
-
-**Generative AI & Agentic AI Specialist | Building Intelligent Systems**  
-📍 Based in Pakistan | 🎯 Open to Collaborations & Opportunities
+<h1 align="center">Hi, I'm Muhammad Awais 👋</h1>
+<h3 align="center">Generative AI & Full-Stack Developer | Building Intelligent Applications</h3>
 
 ---
 
-## 🔭 Current Focus
+### 👨‍💻 Professional Summary
 
-- **Developing**: Production-ready Generative AI applications and solutions
-- **Mastering**: Advanced Agentic AI architectures and autonomous systems
-- **Exploring**: Cutting-edge AI research with practical implementation
+I am a dedicated **Generative AI Developer** with specialized expertise in building AI-powered solutions. My core competencies include developing intelligent chatbot systems, creating robust Python backend applications with Flask, and crafting responsive frontend interfaces with HTML & CSS. I focus on building scalable, efficient applications that leverage cutting-edge AI to solve real-world problems.
 
-## 🚀 Technical Expertise
+### 🛠️ Technical Expertise
 
-### 🤖 AI & Machine Learning
-- **Generative AI**: LLM integration, fine-tuning, and deployment
-- **Agentic Systems**: Autonomous agent design and implementation
-- **AI Development**: End-to-end AI solution architecture
+- **🤖 Generative AI Development:** Designing and implementing AI-driven applications, with a focus on conversational AI and agentic systems.
+- **🐍 Backend Development:** Building RESTful APIs, server-side logic, and database integrations using **Python** and **Flask**.
+- **🎨 Frontend Development:** Creating clean, user-friendly interfaces with semantic **HTML5** and modern **CSS3**.
+- **💬 Chatbot Development:** Engineering contextual and intelligent conversational agents from design to deployment.
 
-### 💻 Development Stack
-**Core Languages & Frameworks:**
-- Python (AI/ML ecosystem)
-- Node.js
-- HTML5/CSS3
-- C Programming
+### 🔬 Current Focus
 
-**Tools & Platforms:**
-- AI/ML Libraries & Frameworks
-- Version Control (Git/GitHub)
-- Adobe Photoshop
+- **🔭 Working On:** Advanced Generative AI projects, exploring multi-agent architectures and AI automation.
+- **🌱 Learning:** **Agentic AI** – developing autonomous AI agents capable of planning, tool use, and iterative task execution.
+- **🤝 Seeking Collaboration:** On innovative projects involving **AI-driven web applications**, **enterprise chatbots**, and **RAG (Retrieval-Augmented Generation)** systems. Let's connect on [LinkedIn](https://linkedin.com/in/muhammad-awais-659740351) to discuss potential synergies.
 
-## 📂 Portfolio & Experience
+### 📂 Portfolio & Contact
 
-Explore my work and professional journey:
-- **📊 Project Portfolio**: [muhammadawaislaal.github.io/My_PortFolio/](https://muhammadawaislaal.github.io/My_PortFolio/)
-- **📄 Detailed Experience**: [View Full Resume](https://muhammadawaislaal.github.io/My_PortFolio/)
-
-## 🤝 Collaboration Interests
-
-I'm actively seeking:
-- Innovative AI/ML projects
-- Research collaborations in Generative AI
-- Full-time opportunities in AI development
-- Open-source contributions in emerging technologies
-
-## 📬 Connect With Me
-
-**Professional Networks:**
-- [LinkedIn](https://linkedin.com/in/muhammad-awais-659740351) - Let's connect professionally
-- **Email**: muhammadawaislaal@gmail.com
-
-**Other Platforms:**
-- [Facebook](https://fb.com/muhammadawais)
-- [Instagram](https://instagram.com/muhammadawais054)
-- [YouTube](https://www.youtube.com/@wixenhunterusa)
-
-## 💬 Technical Discussions
-
-Feel free to reach out for:
-- AI/ML project architecture guidance
-- Generative AI implementation strategies
-- Technical consultations on AI development
-- Code reviews and best practices
+- **Portfolio:** [View my projects and experience](https://muhammadawaislaal.github.io/My_PortFolio/)
+- **Email:** [muhammadawaislaal@gmail.com](mailto:muhammadawaislaal@gmail.com)
+- **Resume:** Available upon request and detailed in my portfolio.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 📞 Connect With Me
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://linkedin.com/in/muhammad-awais-659740351" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Muhammad Awais" height="30" width="40" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <!-- Professional contacts prioritized; social links removed for a focused profile -->
+</p>
+
+### 💻 Core Languages & Tools
+
+<p align="left">
+  <!-- Highlighting specified, relevant technologies -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  **Most Used Languages**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muhammadawaislaal&show_icons=true&locale=en&layout=compact&theme=radical)
-  
-  **GitHub Streak**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadawaislaal&theme=radical)
-  
-</div>
-
----
-
-> *Professionalism in code, innovation in approach, and excellence in execution.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadawaislaal&show_icons=true&locale=en&layout=compact&theme=algolia" alt="muhammadawaislaal" />
+</p>
