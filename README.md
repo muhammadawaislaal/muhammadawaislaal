@@ -2,7 +2,7 @@
   
   # 👋 Hello, I'm Muhammad Awais
   
-  ### **Generative AI Developer & Full-Stack Engineer**
+  ### **Aispiring Generative AI Developer & Flask developer**
   
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=2AA8F7&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;Python+Backend+Developer+with+Flask;Frontend+Developer+with+HTML%2FCSS;Chatbot+Developer;Open+to+Collaboration+%26+Opportunities" alt="Typing SVG" />
